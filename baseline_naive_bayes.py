@@ -1,7 +1,10 @@
 """
 baseline_naive_bayes.py
 ----------------
-This is some code used to 
+This script is used to train and test a Naive Bayes classifier
+on our dataset. We convert each inputted image into a vector
+representing a color histogram before running it through our
+naive bayes classifier.
 """
 
 import cv2
