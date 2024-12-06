@@ -1,0 +1,3 @@
+## img/README.md
+
+This is the folder that is designed to store the dataset. To reduce the size of this repository on GitHub, for our submission, we have added the dataset to [this google drive folder](https://drive.google.com/drive/folders/1jd6XYKSUVy8rcz4bQwVro_nnn79tQFEU?usp=sharing). If you want to run our code on the dataset, replace this folder with a local copy of the `imgs/` folder found in the google drive link.
